@@ -28,10 +28,12 @@ Sample A – Inheritance Scam
 Fake lawyer offering large inheritance
 Requests personal details and payment
 Risk: 🔴 High
+
 Sample B – Bank Scam
 Fake bank email with suspicious link
 Urgent payment request
 Risk: 🔴 High
+
 Sample C – Header Analysis
 Suspicious IP and spoofed email source
 Risk: 🔴 High
